@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/shuvashisofficial/Github-Images/Shuvashis_Resume.pdf">
+<a href="https://github.com/shuvashisofficial/GitHub-Images/blob/main/Images/Shuvashis_Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a> 
 
